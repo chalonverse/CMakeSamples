@@ -1,0 +1,1 @@
+This shows how to build an executable that links against our library.
