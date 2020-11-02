@@ -14,3 +14,4 @@ project(CMakeSamples)
 
 # This adds subdirectories to look at for this project
 add_subdirectory(Ex01)
+add_subdirectory(Ex02)
