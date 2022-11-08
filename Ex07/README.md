@@ -1,1 +1,1 @@
-This demonstrates how to use FetchCOntent to get and use the Catch library.
+This demonstrates how to use FetchContent to get and use the Catch library.
